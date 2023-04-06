@@ -80,8 +80,15 @@ endmodule
 
 ```
 Logic symbol & Truthtable
-RTL realization
+![img](ss.png)
+Waveform:
+![img](wave)
+
+
+
 ## Output:
+![img](RTL.png)
+
 
 
 ## Result:
