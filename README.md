@@ -82,7 +82,7 @@ endmodule
 Logic symbol & Truthtable
 ![img](ss.png)
 Waveform:
-![img](wave)
+![img](wave.png)
 
 
 
